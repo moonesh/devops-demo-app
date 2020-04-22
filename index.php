@@ -64,7 +64,7 @@ $conn->close(); ?>
         <div class="cover-container">
 
             <div class="inner cover">
-                <h1 class="cover-heading">Welcome to the DevOps Demo Application v2.</h1>
+                <h1 class="cover-heading">UR Welcome to the DevOps Demo Application v2.</h1>
                 <p class="lead"><i>This app is used for demonstrating and testing various DevOps, CI, and CD concepts.</i></p>
                 <h3>Connection to MySQL DB:
                     <?php
@@ -83,7 +83,7 @@ $conn->close(); ?>
 
             <div class="mastfoot">
                 <div class="inner">
-                    <p> MOONESH K - DEMO APP FOOTER  <p>
+                    <p> MOONESH KACHROO - DEMO APP FOOTER  <p>
                    
                 </div>
             </div>
