@@ -83,7 +83,8 @@ $conn->close(); ?>
 
             <div class="mastfoot">
                 <div class="inner">
-                    <p>DevOps Demo application provided by the <a href="https://www.devopslibrary.com/">DevOps Library</a>.</p>
+                    <p> MOONESH K - DEMO APP FOOTER  <p>
+                   
                 </div>
             </div>
         </div>
